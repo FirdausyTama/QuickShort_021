@@ -112,7 +112,7 @@ void display() {
 	cout << "Number of data movements: " << mov_count << endl;
 }
 
-int main();
+int main()
 {
 
 	input();
@@ -121,5 +121,5 @@ int main();
 	display();
 	system("pause");
 
-	return 0
+	return 0;
 }
